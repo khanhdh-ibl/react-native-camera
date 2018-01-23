@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/tncthien/.android/build-cache/c8b0a652435aae7e8c21a05a593f378084e0653c/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/tncthien/.android/build-cache/c8b0a652435aae7e8c21a05a593f378084e0653c/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/tncthien/.android/build-cache/c8b0a652435aae7e8c21a05a593f378084e0653c/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/tncthien/.android/build-cache/1d977d6f14ed5aa584283250fcd93056a48aca8e/output/res/color/abc_search_url_text.xml"
+    }
+]

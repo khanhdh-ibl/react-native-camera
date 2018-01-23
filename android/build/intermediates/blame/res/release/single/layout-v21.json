@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/tncthien/.android/build-cache/a6c00ecbd551156ff6d6116fda2ecf30a8f977cb/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/tncthien/.android/build-cache/a6c00ecbd551156ff6d6116fda2ecf30a8f977cb/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/tncthien/.android/build-cache/a6c00ecbd551156ff6d6116fda2ecf30a8f977cb/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/tncthien/working/IBL/blockpass-mobile/node_modules/react-native-camera/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/tncthien/.android/build-cache/a6c00ecbd551156ff6d6116fda2ecf30a8f977cb/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
